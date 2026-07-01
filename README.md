@@ -1,4 +1,5 @@
 # NIE-style Notice Board
+국립생태원 강의 중
 Material 3 Design System 기반의 공공기관형 공지사항 게시판입니다. 사용자 목록/상세, 관리자 로그인, 공지 CRUD, S3 호환 첨부파일 업로드, Prisma/PostgreSQL 모델을 포함합니다.
 
 ## Setup
